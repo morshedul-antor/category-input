@@ -8,12 +8,12 @@ def insert(name, category_id, sub_category_id):
         host="localhost",
         user="root",
         password="",
-        database="biztrade"
+        database="categories"
     )
 
     mycursor = mydb.cursor()
 
-    sql = "INSERT INTO categories (name, category_id) VALUES (%s, %s, %s )"
+    sql = "INSERT INTO sub_sub_category (name, category_id, sub_category_id) VALUES (%s, %s, %s )"
     val = (name, category_id, sub_category_id)
 
     mycursor.execute(sql, val)
@@ -29,7 +29,8 @@ def app():
         lines = f.readlines()
 
         for line in lines:
-            insert(line.strip())
+            splt = line.split('|')
+            insert(splt[0].strip(), int(splt[1].strip()), int(splt[2].strip()))
 
 
 if __name__ == '__main__':
