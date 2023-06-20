@@ -1,0 +1,820 @@
+Ladies Kurti | 1 | 1
+Ladies Salwar Suits | 1 | 1
+Designer Kurtis  | 1 | 1
+Ladies Wear | 1 | 1
+Designer Sarees | 1 | 1
+Katan Saree | 1 | 1
+Zamdani Saree | 1 | 1
+Ladies Nightwear | 1 | 1
+Fabric  | 1 | 2
+Cotton Fabric   | 1 | 2
+Woven Fabrics  | 1 | 2
+Cotton Textile | 1 | 2
+Ladies Suits & Dress Material  | 1 | 2
+Cotton Woven Fabrics  | 1 | 2
+Apparel & Clothing Fabric  | 1 | 2
+Other Textile Fabrics  | 1 | 2
+Industrial Clothing | 1 | 3
+Working Bib Pant | 1 | 3
+Industrial Gloves | 1 | 3
+Industrial Safety Helmets | 1 | 3
+Kids Wear | 1 | 4
+Girls Jacket | 1 | 4
+Boys Clothes | 1 | 4
+Girls Tops | 1 | 4
+Boys Underpant | 1 | 4
+Men Wear | 1 | 5
+Men T-Shirts | 1 | 5
+Men Shirts | 1 | 5
+Men Jeans | 1 | 5
+Men Cotton Shirts | 1 | 5
+Men Suits | 1 | 5
+Men Formal Wear | 1 | 5
+Men Slim Formal Pants | 1 | 5
+Mens Nightwear | 1 | 5
+Women Blazer | 1 | 6
+Men Blazer | 1 | 6
+Blazers | 1 | 6
+Knitwear | 1 | 6
+Men Knitted Wear | 1 | 6
+Dog Accessories | 1 | 7
+Leather Saddle | 1 | 7
+Saddles | 1 | 7
+Dog Collars | 1 | 7
+Horse Accessories | 1 | 7
+School Uniforms | 1 | 8
+Commercial Uniforms | 1 | 8
+Corporate Uniform | 1 | 8
+Girls School Shirt | 1 | 8
+Industrial Uniforms | 1 | 8
+Leggings | 1 | 9
+Pantyhose | 1 | 9
+Women Printed Leggings | 1 | 9
+Ladies Tights | 1 | 9
+Designer Leggings | 1 | 9
+Stitching Services | 1 | 10
+Embroidery Job Work  | 1 | 10
+Ladies Clothes Stitching Services  | 1 | 10
+Garment Stitching Service  | 1 | 10
+Tailors  | 1 | 10
+Denim Clothing  | 1 | 11
+Men Jeans | 1 | 11
+Denim Jeans | 1 | 11
+Men Denim Jeans | 1 | 11
+Cotton Clothing | 1 | 11
+Embroidery Work & Embroidery Fabric | 1 | 12
+Embroidered Fabrics | 1 | 12
+Embroidery Job Work | 1 | 12
+Crochet Fabric | 1 | 12
+Machine Embroidered Fabrics | 1 | 12
+Pantyhose | 1 | 13
+Men Brief  | 1 | 13
+Men Underwear and Briefs  | 1 | 13
+Bikini Panty  | 1 | 13
+Girls Underpant  | 1 | 13
+Baby & Infant Clothes  | 1 | 14
+Baby Garment | 1 | 14
+Baby Frocks | 1 | 14
+Babies Tights | 1 | 14
+Baby Garment Accessories | 1 | 14
+Bobbin | 1 | 15
+Sewing Needles | 1 | 15
+Sewing Accessories | 1 | 15
+Sewing Machine Needle | 1 | 15
+Embroidery Accessories | 1 | 15
+Leather Jackets | 1 | 16
+Women Leather Clothing | 1 | 16
+Men Leather Garments | 1 | 16
+Leather Garments | 1 | 16
+Leather Gloves | 1 | 16
+Embroidered Clothing | 1 | 17
+Embroidered Ladies Garment | 1 | 17
+Embroidered Kurtis | 1 | 17
+Embroidered Ladies Suit  | 1 | 17
+Cotton Embroidered Kurti  | 1 | 17
+Hand Gloves  | 1 | 18
+Cotton Gloves  | 1 | 18
+Household Gloves  | 1 | 18
+Bath Mitts  | 1 | 18
+Warm Glove  | 1 | 18
+Men T-Shirts  | 1 | 19
+T Shirts | 1 | 19
+Shirt | 1 | 19
+Readymade Garments | 1 | 19
+Round Neck T Shirt | 1 | 19
+Umbrella | 1 | 20
+Raincoats & Rainsuits  | 1 | 20
+Rain Suit | 1 | 20
+Garden Umbrella | 1 | 20
+Promotional Umbrella | 1 | 20
+Shawl | 1 | 21
+Woolen Shawls | 1 | 21
+Silk Shawls | 1 | 21
+Ladies Shawl | 1 | 21
+Men Designer T-Shirt | 1 | 22
+Printed T Shirts | 1 | 22
+Printed Garment | 1 | 22
+Men Custom T -Shirt | 1 | 22
+Men Sublimation T-Shirt | 1 | 22
+Yarn | 1 | 23
+Monofilament Yarn | 1 | 23
+Natural Fiber Yarns | 1 | 23
+Threads | 1 | 23
+Cotton Yarn | 1 | 23
+Sports Apparel | 1 | 24
+Sports Pant | 1 | 24
+Ladies Tights | 1 | 24
+Tracksuits | 1 | 24
+Track Pant | 1 | 24
+Tissue Paper Boxes | 1 | 25
+Towels  | 1 | 25
+Toilet Paper Roll  | 1 | 25
+Tissue Paper Boxes  | 1 | 25
+Paper Napkin  | 1 | 25
+Lace  | 1 | 26
+Fancy Laces | 1 | 26
+Designer Laces | 1 | 26
+Embroidered Laces | 1 | 26
+Elastic Tapes | 1 | 26
+Garment Accessories | 1 | 27
+Buttons | 1 | 27
+Zippers | 1 | 27
+Buckles | 1 | 27
+Designer Cufflink | 1 | 28
+Badges | 1 | 28
+Ribbons | 1 | 28
+Logo Patches | 1 | 28
+Lanyards | 1 | 28
+ID Card Lanyard | 1 | 28
+Shawl | 1 | 29
+Scarf | 1 | 29
+Stoles | 1 | 29
+Fancy Stoles | 1 | 29
+Silk Shawls | 1 | 29
+Men Cap | 1 | 30
+Caps  | 1 | 30
+Fashion Caps  | 1 | 30
+Cotton Caps  | 1 | 30
+Winter Cap  | 1 | 30
+Ties  | 1 | 31
+Men Tie | 1 | 31
+Designer Necktie | 1 | 31
+Necktie | 1 | 31
+Bow Ties | 1 | 31
+Silk Sarees | 1 | 32
+Silk Textile | 1 | 32
+Ladies Silk Suit | 1 | 32
+Rajshahi Silk Sarees | 1 | 32
+Silk Garments | 1 | 32
+Handicraft Handbag | 2 | 1
+Beaded Handbags | 2 | 1
+Crochet Purse | 2 | 1
+Women Leather Handbags | 2 | 1
+Evening Bags | 2 | 1
+Nylon Wallet | 2 | 2
+Leather Saddle Bags | 2 | 2
+Leather Suitcase | 2 | 2
+Satchel Bags | 2 | 2
+Pu Leather Bag | 2 | 2
+Ladies Leather Wallets | 2 | 3
+Designer Leather Wallet | 2 | 3
+Leather Chain Wallet | 2 | 3
+Handmade Leather Wallets | 2 | 3
+Wrist Wallet | 2 | 4
+Pvc Printed Leather | 2 | 4
+Leather Toys | 2 | 4
+Leather Gun Case | 2 | 4
+Leather Hats | 2 | 4
+Nappa Leather | 2 | 4
+Woven Leather Belts | 2 | 5
+Leather Designer Belt | 2 | 5
+Black Leather Belt | 2 | 5
+Leather Fashion Belt | 2 | 5
+Braided Leather Belt | 2 | 5
+Brown Leather Shoes | 2 | 6
+Ladies Leather Shoes  | 2 | 6
+Liberty Shoes  | 2 | 6
+Goat Leather Jacket  | 2 | 7
+Ladies Leather Jackets | 2 | 7
+Kids Leather Jackets | 2 | 7
+Leather Bomber Jacket | 2 | 7
+Faux Leather Jacket | 2 | 7
+Leather Boxing Gloves | 2 | 8
+Leather Welding Gloves | 2 | 8
+Leather Palm Gloves | 2 | 8
+Wicket Keeping Gloves | 2 | 8
+Batting Gloves | 2 | 8
+Wet Blue Leather | 2 | 9
+Cow Milled Leather | 2 | 9
+Nubuck Leather | 2 | 9
+Black Buffalo Leather | 2 | 9
+Suede Split Leather | 2 | 9
+Coin Purses | 2 | 10
+Leather Coin Wallet  | 2 | 10
+Ladies Leather Purse  | 2 | 10
+Ladies Hand Purse  | 2 | 10
+Leather Clutch Purse  | 2 | 10
+Leather Girths  | 2 | 11
+Horse Sheets | 2 | 11
+Browbands | 2 | 11
+Berl Saddles | 2 | 11
+Horse Spur | 2 | 11
+Leather Passport Case | 2 | 12
+Leather Phone Case  | 2 | 12
+Leather Eyeglass Case  | 2 | 12
+Leather Pen Cases  | 2 | 12
+Leather Boxes  | 2 | 12
+Ladies Leather Sandal  | 2 | 13
+Leather Thongs | 2 | 13
+Womens Leather Sandals | 2 | 13
+Synthetic Leather Sandals | 2 | 13
+Leather Flip Flops | 2 | 13
+Printed Leather | 2 | 14
+Leather Waist Coat | 2 | 14
+Leather Tops | 2 | 14
+Mens Leather Blazer | 2 | 14
+Leather Shorts | 2 | 14
+Pvc Synthetic Leather | 2 | 15
+Cabretta Leather  | 2 | 15
+Pu Leather  | 2 | 15
+Pu Synthetic Leather  | 2 | 15
+Patent Leather  | 2 | 15
+Aniline Leather  | 2 | 16
+Real Suede Leather  | 2 | 15
+Leather Sheets  | 2 | 15
+Leather Braids  | 2 | 15
+Goat Suede Leather  | 2 | 15
+Pack Saddle  | 2 | 16
+Saddle Tree | 2 | 16
+Portuguese Saddle | 2 | 16
+English Saddles | 2 | 16
+Plastic Saddles | 2 | 16
+Ladies Leather Boots | 2 | 17
+Mens Leather Boots | 2 | 17
+Ladies Boot | 2 | 17
+Red Pvc Leather | 2 | 18
+Pvc Printed Leather  | 2 | 18
+Pvc Shoes Leather  | 2 | 18
+Car Seat Leather  | 2 | 18
+Pvc Coated Fabric  | 2 | 18
+Leather Binders  | 2 | 19
+Leather Adhesive | 2 | 19
+Leather Tanning Chemicals | 2 | 19
+Leather Softeners | 2 | 19
+Fat Liquors Leather Chemical | 2 | 19
+Leather Key Pouches | 2 | 20
+Leather Mobile Pouch  | 2 | 20
+Leather Sole  | 2 | 21
+Leather Fringes  | 2 | 21
+Promotional Leather Goods  | 2 | 21
+Leather Laces  | 2 | 21
+Leather Labels  | 2 | 21
+Suede Split Leather  | 2 | 22
+Wet Blue Leather  | 2 | 22
+Leather Necklaces  | 2 | 22
+Flat Leather Cord  | 2 | 22
+Suede Leather Cord  | 2 | 22
+Mens Leather Trousers  | 2 | 23
+Leather Pants  | 2 | 23
+Transfer Foils  | 2 | 24
+Leather Transfer Foils | 2 | 24
+Foiled Leathers | 2 | 24
+Leather Foil | 2 | 24
+Jute Yarn | 3 | 1
+Jute Cloth  | 3 | 1
+Jute Fabric  | 3 | 1
+Hessain Cloth  | 3 | 1
+Jute Bags | 3 | 2
+Jute Mat  | 3 | 2
+Jute Sacks  | 3 | 2
+Jute Netting  | 3 | 2
+Jute Braid  | 3 | 2
+Jute Tassels  | 3 | 2
+Jute Hemp  | 3 | 2
+Jute Sheets  | 3 | 2
+Jute Folders  | 3 | 2
+Red Rice | 4 | 1
+Organic Non Basmati Rice | 4 | 1
+Brown Basmati Rice | 4 | 1
+Miniket Rice | 4 | 1
+Najir Shail Rice | 4 | 1
+Chinigura Rice | 4 | 1
+Bitter gourd | 4 | 2
+Small bitter gourd | 4 | 2
+Ash/Wax gourd | 4 | 2
+Snake gourd | 4 | 2
+Bottle gourd | 4 | 2
+Teasle gourd/Kantola | 4 | 2
+Pumpkin (green) | 4 | 2
+Pointed gourd | 4 | 2
+Cucumber | 4 | 2
+Brinjal/Egg plant | 4 | 2
+Yard Long bean | 4 | 2
+Perilla Seeds | 4 | 3
+Tea Seeds | 4 | 3
+Natural Brown Sesame Seeds | 4 | 3
+Seesame Seeds | 4 | 3
+Green Gram Seeds | 4 | 3
+Water Chestnuts | 4 | 4
+Mandarin Orange | 4 | 4
+Fresh Pears | 4 | 4
+Hog plum | 4 | 4
+Jamon | 4 | 4
+Organic Urad Dal | 4 | 4
+Moong Dal Badi | 4 | 4
+Masoor Malka | 4 | 4
+Green Lentil | 4 | 4
+Adzuki Beans |4 | 4
+Green tea | 4 | 5
+Black tea | 4 | 5
+Oolong tea | 4 | 5
+Instant tea | 4 | 5
+White tea | 4 | 5
+Dates Powder | 4 | 6
+Dry Dates | 4 | 6
+Anardana Powder | 4 | 6
+Dried Raisin | 4 | 6
+Guava Pulp | 4 | 6
+Whole Cashew Nuts | 4 | 7
+Cashew Nut W320 | 4 | 7
+Cashew Pieces | 4 | 7
+Processed Cashew Nuts | 4 | 7
+Broken Cashew Nut | 4 | 7
+Cassava Leaves | 4 | 8
+Jack Fruit Plant | 4 | 8
+Tulsi Plant | 4 | 8
+Areca Leaf | 4 | 8
+Hybrid Plant | 4 | 8
+Quinoa Seeds | 4 | 9
+Dried Corn  | 4 | 9
+Wheatgrass  | 4 | 9
+Maida  | 4 | 9
+Maize Bran  | 4 | 9
+Mustard Cake  | 4 | 10
+Sheep Feed  | 4 | 10
+Ractopamine Hcl  | 4 | 10
+Oil Cake  | 4 | 10
+Rice Husk Briquettes  | 4 | 10
+Coconut Copra  | 4 | 11
+One Eye Coconut  | 4 | 11
+Green Coconut  | 4 | 11
+Tender Coconut  | 4 | 11
+Yellow Coconut  | 4 | 11
+Feed Barley  | 4 | 12
+Soapnut Shells | 4 | 12
+Corn Cob | 4 | 12
+Foxtail Millet | 4 | 12
+Agricultural Waste | 4 | 12
+Organic Wheat | 4 | 13
+Wheat Grain | 4 | 13
+Puffed Wheat | 4 | 13
+Sharbati Wheat | 4 | 13
+Broken Wheat | 4 | 13
+Espresso Coffee | 4 | 14
+Coffee Beans | 4 | 14
+Cappuccino Premix | 4 | 14
+Coffee Pods | 4 | 14
+Flavored Coffee | 4 | 14
+Seaweed Powder | 4 | 15
+Broiler Concentrate Feed | 4 | 15
+Bone Grist | 4 | 15
+Alfalfa Hay | 4 | 15
+Corn Germ | 4 | 15
+Plastic Shovel | 4 | 16
+Garden Mattock | 4 | 16
+Agricultural Sprayer | 4 | 16
+Crop Cutter | 4 | 16
+Garden Hoe | 4 | 16
+Organic Bean | 4 | 17
+Dry Edible Beans  | 4 | 17
+Runner Beans  | 4 | 17
+White Pea Beans  | 4 | 17
+Vanilla Beans  | 4 | 17
+Canned Green Peas  | 4 | 18
+Frozen Potato | 4 | 18
+Frozen Capsicum | 4 | 18
+Frozen Okra | 4 | 18
+Mixed Vegetables | 4 | 18
+Cotton Comber Noil | 4 | 19
+Raw Cotton Bale | 4 | 19
+Waste Cotton Yarn | 4 | 19
+Cotton Seed Oil Cake | 4 | 19
+Organic Raw Cotton | 4 | 19
+Mushroom Powder | 4 | 20
+Dehydrated Mushroom | 4 | 20
+Fresh Mushroom  | 4 | 20
+Mixed Mushrooms  | 4 | 20
+Fresh Button Mushroom  | 4 | 20
+Fresh Eggs   | 4 | 20
+Duck Eggs  | 4 | 20
+Hatching Eggs  | 4 | 20
+Organic Eggs  | 4 | 20
+Flax Seed Oil  | 4 | 21
+Clove Oil | 4 | 21
+Linseed Oil | 4 | 21
+Basil Oil | 4 | 21
+Dehydrated Potato | 4 | 22
+Dehydrated Onion Product | 4 | 22
+Dehydrated Garlic | 4 | 22
+Dehydrated Potato Flakes | 4 | 22
+Dehydrated Onion Flakes | 4 | 22
+Bamboo Laminated Sheet | 4 | 23
+Rattan Drawer | 4 | 23
+Rattan Dining Chair | 4 | 23
+Rattan Stick | 4 | 23
+Bamboo Blinds | 4 | 23
+Coconut Shell Activated Carbon | 4 | 24
+Coconut Shell Crafts | 4 | 24
+Coconut Broom | 4 | 24
+Coconut Fatty Acid | 4 | 24
+Coconut Shell Charcoal Powder | 4 | 24
+Maize Flakes | 4 | 25
+Quinoa Grain  | 4 | 25
+Foxtail Millet  | 4 | 25
+Saffola Oats  | 4 | 25
+Cereal Flake  | 4 | 25
+Coconut Coir Rope  | 4 | 26
+Coir Twine  | 4 | 26
+Curled Coir Rope | 4 | 26
+Bristle Coir Fiber | 4 | 27
+Coir Logs | 4 | 27
+Organic Cauliflower | 4 | 28
+Organic Tomatoes | 4 | 28
+Organic Peas | 4 | 28
+Organic Potatoes | 4 | 28
+Organic Carrot | 4 | 28
+Animal Hair | 4 | 29
+Dried Beef Casings | 4 | 29
+Horn Bowl | 4 | 29
+Buffalo Horn Plates | 4 | 29
+Sheep Casings | 4 | 29
+Dried Carrot | 4 | 30
+Freeze Dried Vegetables  | 4 | 30
+Dehydrated Vegetable Flakes  | 4 | 30
+Dried Lemon Slices  | 4 | 30
+Green Chillies  | 4 | 30
+Chilli Seeds  | 4 | 31
+Methi Seeds  | 4 | 31
+Palm Seeds | 4 | 31
+Sago Seed | 4 | 31
+Flax Seeds | 4 | 31
+Bed Linen | 5 | 1
+Bed Sheets  | 5 | 1
+Pillows  | 5 | 1
+Cotton Bed Sheet  | 5 | 1
+Double Bed Sheets  | 5 | 1
+Carpets  | 5 | 2
+Room Carpet | 5 | 2
+Rugs | 5 | 2
+Designer Carpet | 5 | 2
+Room Rug | 5 | 2
+Bed Mattress | 5 | 3
+Foam Sheet | 5 | 3
+Sleeping Mattress | 5 | 3
+PU Foam | 5 | 3
+Foam Mattress | 5 | 3
+Pillows | 5 | 4
+Cushions | 5 | 4
+Cushion Covers | 5 | 4
+Pillow Covers | 5 | 4
+Decorative Pillows | 5 | 4
+Floor Mats | 5 | 5
+Door Mats | 5 | 5
+Rubber Mats | 5 | 5
+Bathroom Mats | 5 | 5
+Rubber Floor Mats | 5 | 5
+Curtains | 5 | 6
+Designer Curtain | 5 | 6
+Blinds | 5 | 6
+Window Curtains | 5 | 6
+Drape Curtain | 5 | 6
+Blankets | 5 | 7
+Quilts | 5 | 7
+Woollen Blanket | 5 | 7
+Polyester Blanket | 5 | 7
+Bed Quilts| 5 | 7
+Wallpaper | 5 | 8
+Blinds | 5 | 8
+Designer Wallpaper | 5 | 8
+Window Blinds | 5 | 8
+Interior Venetian Blinds | 5 | 8
+Table Linen| 5 | 9
+Tablecloth | 5 | 9
+Table Covers | 5 | 9
+Table Mats  | 5 | 9
+Table Runners  | 5 | 9
+Kitchen Linens  | 5 | 10
+Kitchen Apron  | 5 | 10
+Kitchen Towel  | 5 | 10
+Appliance Covers  | 5 | 10
+Dishcloths  | 5 | 10
+Men Bathrobe  | 5 | 11
+Bath Towel  | 5 | 11
+Bathrobes  | 5 | 11
+Ladies Bathrobe  | 5 | 11
+Cotton Bathrobe  | 5 | 11
+Tissue Paper  | 5 | 12
+Towels  | 5 | 12
+Toilet Paper Roll | 5 | 12
+Tissue Paper Boxes | 5 | 12
+Paper Napkin | 5 | 12
+Home Decor & Furnishing Fabrics | 5 | 13
+Home Furnishings Accessories  | 5 | 13
+Home Textile Fabrics  | 5 | 13
+Sofa Covers  | 5 | 13
+Furniture Covers  | 5 | 13
+Decorative Items  | 6 | 1
+Decorative Handicrafts | 6 | 1
+Handicraft Items | 6 | 1
+Gift Sets | 6 | 1
+Iron Crafts | 6 | 1
+Corporate Gifts | 6 | 2
+Advertising Brochure | 6 | 2
+Printed Leaflet | 6 | 2
+Advertising Novelties | 6 | 2
+Video Brochure | 6 | 2
+Animal Statues | 6 | 3
+Marble Statue | 6 | 3
+Metal Statue | 6 | 3
+Decorative Statue | 6 | 3
+Gold Plated Statues | 6 | 3
+Paintings | 6 | 4
+Canvas Painting | 6 | 4
+Decorative Paintings | 6 | 4
+Wall Painting | 6 | 4
+Sketches | 6 | 4
+Wood Crafts | 6 | 5
+Wooden Handicraft  | 6 | 5
+Wooden Box  | 6 | 5
+Wooden Temples  | 6 | 5
+Wooden Stick  | 6 | 5
+Brass Crafts  | 6 | 6
+Copper Utensils  | 6 | 6
+Metal Crafts  | 6 | 6
+Brass Handicrafts  | 6 | 6
+Trophies  | 6 | 7
+Award Trophies  | 6 | 7
+Momentos  | 6 | 7
+Wooden Trophy  | 6 | 7
+Acrylic Trophies  | 6 | 7
+Correspondence Cards  | 6 | 8
+Visiting Cards  | 6 | 8
+Business Cards  | 6 | 8
+Greeting Cards  | 6 | 8
+Wedding Cards  | 6 | 8
+Ceramic Crockery  | 6 | 9
+Ceramic Crafts  | 6 | 9
+Terracotta  | 6 | 9
+Ceramic Tablewares  | 6 | 9
+Terracotta Home Decor  | 6 | 9
+Bone Crafts  | 6 | 10
+Horn Craft   | 6 | 10
+Bone Inlay Box   | 6 | 10
+Animal Horn   | 6 | 10
+Shell Crafts   | 6 | 10
+Advertising Banners   | 6 | 11
+Flex Banner  | 6 | 11
+Flag & Flag Accessories   | 6 | 11
+National Flags   | 6 | 11
+Decorative Light   | 6 | 12
+Lamps | 6 | 12
+Wall Light | 6 | 12
+String Light | 6 | 12
+Decorative LED Bulb | 6 | 12
+Fruit Plants | 6 | 13
+Natural Flowers | 6 | 13
+Outdoor Plant | 6 | 13
+Indoor Plants | 6 | 13
+Flowering Plant | 6 | 13
+Beads | 6 | 14
+Glass Beads  | 6 | 14
+Silver Beads  | 6 | 14
+Glass Mirrors  | 6 | 15
+Decorative Mirrors | 6 | 15
+Glassware | 6 | 15
+Glass Block | 6 | 15
+Glass Plate | 6 | 15
+Sandstone Article | 6 | 16
+Granite Monuments | 6 | 16
+Marble Handicrafts | 6 | 16
+Building Columns & Pillars | 6 | 16
+Stone Artifacts | 6 | 16
+Keychains | 6 | 17
+Key Rings | 6 | 17
+Key Hooks  | 6 | 17
+Key Holders  | 6 | 17
+Keychain Ring  | 6 | 17
+Photo Frame  | 6 | 18
+Wooden Photo Frames   | 6 | 18
+Decorative Photo Frame   | 6 | 18
+Wooden Frame   | 6 | 18
+Designer Photo Frames   | 6 | 18
+Plant Pots   | 6 | 19
+Flower Pots  | 6 | 19
+Decorative Pot  | 6 | 19
+Planter  | 6 | 19
+Plastic Pot  | 6 | 19
+Garden Decor  | 6 | 20
+Garden Lighting | 6 | 20
+Decorative Fountain | 6 | 20
+Garden Fountains | 6 | 20
+Wall Hanging | 6 | 21
+Wall Decor  | 6 | 21
+Iron Wall Hanging  | 6 | 21
+Door Hangings  | 6 | 21
+Wall Art | 6 | 21
+Decorative Candle Holder  | 6 | 22
+Candle Holder  | 6 | 22
+Candle Stands  | 6 | 22
+T-Light Candle Holder  | 6 | 22
+Candle Holder Stand  | 6 | 22
+Hanging Lamps  | 6 | 23
+Chandeliers  | 6 | 23
+Night Light | 6 | 23
+Lantern | 6 | 23
+Hanging Chandelier | 6 | 23
+Candle | 6 | 24
+Garden Candle  | 6 | 24
+Wax Candles | 6 | 24
+Scented Candles  | 6 | 24
+Tea Light Candle  | 6 | 24
+Flower Vase  | 6 | 25
+Vases   | 6 | 25
+Decorative Vase   | 6 | 25
+Wooden Vase   | 6 | 25
+Flower Stand   | 6 | 25
+Artificial Grass   | 6 | 26
+Artificial Flowers   | 6 | 26
+Artificial Turf   | 6 | 26
+Artificial Grass Mat   | 6 | 26
+Artificial Grass Carpet   | 6 | 26
+Art Designing Service   | 6 | 27
+Painting Conservation Work | 6 | 27
+Art Gallery Services | 6 | 27
+Art Glass Work | 6 | 27
+Paper Cutting Work | 6 | 27
+Living Room Furniture | 7 | 1
+Sofa Set  | 7 | 1
+Wooden Sofa Set  | 7 | 1
+Furniture Sofa  | 7 | 1
+Table  | 7 | 1
+Office Furniture  | 7 | 2
+Office Chairs   | 7 | 2
+Office Tables  | 7 | 2
+Study Table  | 7 | 2
+Revolving Chair  | 7 | 2
+Metal Furniture  | 7 | 3
+Steel Almirah  | 7 | 3
+Metal Wardrobe & Cupboard  | 7 | 3
+Steel Furniture  | 7 | 3
+Metal Chair  | 7 | 3
+Food & Bakery Display Counter   | 7 | 4
+Display Rack    | 7 | 4
+Display Stands    | 7 | 4
+Service Counter    | 7 | 4
+Clothing Rack    | 7 | 4
+Kitchen Furniture   | 7 | 5
+Modular Kitchen   | 7 | 5
+Wooden Dining Table   | 7 | 5
+Dining Table & Chair  | 7 | 5
+Wooden Dining Table & Chair   | 7 | 6
+Wooden Furniture  | 7 | 6
+Wooden Bed  | 7 | 6
+Wooden Sofa Set  | 7 | 6
+Wooden Chair  | 7 | 6
+Wooden Sofa & Sofa Bed  | 7 | 6
+Furniture  | 7 | 7
+Home Furniture | 7 | 7
+Shoe Rack For Home| 7 | 7
+Modular Furniture | 7 | 7
+Book Racks | 7 | 7
+Furniture Parts | 7 | 8
+Furniture Fittings  | 7 | 8
+Bed Headboard  | 7 | 8
+Furniture Handles  | 7 | 8
+Bed Parts  | 7 | 8
+Almirah & Wardrobe  | 7 | 9
+Beds| 7 | 9
+Wooden Wardrobe | 7 | 9
+Wooden Double Bed | 7 | 9
+Wooden Almirah | 7 | 9
+Bar Furniture| 7 | 10
+Hotel & Restaurant Furniture | 7 | 10
+Cafeteria Chairs & Tables | 7 | 10
+Outdoor Furniture | 7 | 10
+Bar Stool & Chair | 7 | 10
+Plastic Furniture | 7 | 11
+Plastic Chairs & Chairs Set  | 7 | 11
+Plastic Chairs  | 7 | 11
+Plastic Seats  | 7 | 11
+Plastic Tables & Stools  | 7 | 11
+Swings  | 7 | 12
+Outdoor Bench | 7 | 12
+Outdoor Furniture| 7 | 12
+Outdoor Swing | 7 | 12
+Garden Bench | 7 | 12
+Carpentry Work | 7 | 13
+Furniture Design Service | 7 | 13
+Wood Works Services | 7 | 13
+Furniture Maintenance Service | 7 | 13
+Interior Wood Work | 7 | 13
+Metal Angles | 7 | 14
+Aluminium Profiles | 7 | 14
+Hardware Accessories | 7 | 14
+Metal Channels | 7 | 14
+Metal Fitting | 7 | 14
+Hospital Furniture | 7 | 15
+Hospital Bed and Mattress  | 7 | 15
+Hospital Equipment | 7 | 15
+Hospital Tables | 7 | 15
+Hospital Chair | 7 | 15
+Iron Rolling Shutter  | 7 | 16
+Rolling Shutters  | 7 | 16
+Door Frames  | 7 | 16
+Wall Partitions And Door Partitions  | 7 | 16
+Aluminium Partitions  | 7 | 16
+Caster Wheels  | 7 | 17
+Nylon, Plastic, PU, Rubber & Metal Wheel | 7 | 17
+Trolley Wheels | 7 | 17
+PU, Nylon, Rubber, Steel Casters | 7 | 17
+PU Casters | 7 | 17
+Plastic Grease Containers | 8 | 1
+Plastic Floorings  | 8 | 1
+Plastic Tubs  | 8 | 1
+Polythene Covers  | 8 | 1
+Plastic Grip Handle  | 8 | 1
+Polystyrene Polymer | 8 | 2
+Polyurethane Elastomer | 8 | 2
+Recycled Ldpe Granules | 8 | 2
+Pmma Granules | 8 | 2
+Recycled Pet Flake | 8 | 2
+Anti Bird Net | 8 | 3
+Pet Bottle Chips  | 8 | 3
+Pickles Pet Jars  | 8 | 3
+Pet Bottle Handle  | 8 | 3
+Pet Containers  | 8 | 3
+Glass Protective Film  | 8 | 4
+Hdpe Film | 8 | 4
+Pvc Transparent Film | 8 | 4
+Ldpe Film | 8 | 4
+Plastic Packaging Films | 8 | 4
+Textured Sheet | 8 | 5
+Transparent Sheet | 8 | 5
+Polyurethane Plastic Sheets | 8 | 5
+Plastic Roofing Sheets | 8 | 5
+Pp Flute Boards | 8 | 5
+Ptfe Lined Instrument Tee | 8 | 6
+Ptfe Lined Strainer  | 8 | 6
+Ptfe Guide Strip  | 8 | 6
+Ptfe Washers  | 8 | 6
+Ptfe Bushes  | 8 | 6
+Plastic Moulding Dies  | 8 | 7
+Polyurethane Foam Mouldings | 8 | 7
+Open Cooler Panels | 8 | 7
+Fibreglass Mouldings | 8 | 7
+Resin Cornice | 8 | 7
+Scrap Iron | 8 | 8
+Hdpe Scrap | 8 | 8
+Mixed Plastic Scrap | 8 | 8
+Pvc Scrap | 8 | 8
+Chrome Ore | 8 | 8
+Taper Interlock | 8 | 9
+Injection Blow Molds | 8 | 9
+Injection Moulding Dies | 8 | 9
+Thermoplastic Components | 8 | 9
+Precision Injection Mold | 8 | 9
+Pvc Opaque Film | 8 | 10
+Bopp Packaging Films | 8 | 10
+Retort Cpp Film | 8 | 10
+Pharmaceutical Pvc Films | 8 | 10
+Polyester Bopp Film | 8 | 10
+Hdpe Laminated Fabric | 8 | 11
+Epe Sheet  | 8 | 11
+Hdpe Geomembrane Sheet  | 8 | 11
+Color Coated Sheets  | 8 | 11
+Hdpe Boards  | 8 | 11
+Pvc Transparent Sheet  | 8 | 12
+Pvc Skirting | 8 | 12
+Pvc Strengthen Tube | 8 | 12
+Pvc Flexible Profile | 8 | 12
+Plastic Profiles| 8 | 12
+Sample Card | 8 | 13
+Digital Id Card | 8 | 13
+Plastic Electronic Ballasts | 8 | 14
+Abs Plastic Enclosure | 8 | 14
+Plastic Battery Cover | 8 | 14
+Plastic Mcb Enclosures | 8 | 14
+Equipment Enclosures | 8 | 14
+Ld Polythene Sheet | 8 | 15
+Ldpe Shrink Film | 8 | 15
+Profile Sheets | 8 | 15
+Printed Ldpe Film | 8 | 15
+Ldpe Rolls | 8 | 15
+Mortar Plasticizer | 8 | 15
+Epoxidized Soybean Oil | 8 | 16
+Polymeric Plasticizers | 8 | 16
+Superplasticizer | 8 | 16
+Concrete Plasticizer | 8 | 16
+Pe Liners | 8 | 16
+Hot Melt Equipment | 8 | 16
+Plastic Sealers | 8 | 16
