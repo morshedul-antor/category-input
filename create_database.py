@@ -7,6 +7,6 @@ my_db_conn = mysql.connector.connect(
 )
 
 mycursor = my_db_conn.cursor()
-mycursor.execute("CREATE DATABASE medicines")
+mycursor.execute("CREATE DATABASE categories")
 
 print('Database created...')
