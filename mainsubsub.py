@@ -5,15 +5,15 @@ i = 1
 
 def insert(name, category_id, sub_category_id):
     mydb = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="categories"
+        host="bizdata.cxr9ckftrymk.ap-southeast-1.rds.amazonaws.com",
+        user="biztradeprodu",
+        password="h48eUe3jpYjkd982ueje",
+        database="biztradeprod"
     )
 
     mycursor = mydb.cursor()
 
-    sql = "INSERT INTO sub_sub_category (name, category_id, sub_category_id) VALUES (%s, %s, %s )"
+    sql = "INSERT INTO sub_sub_categories (name, category_id, sub_category_id) VALUES (%s, %s, %s )"
     val = (name, category_id, sub_category_id)
 
     mycursor.execute(sql, val)

@@ -8,12 +8,12 @@ def insert(name, category_id):
         host="localhost",
         user="root",
         password="",
-        database="categories"
+        database="biztrade"
     )
 
     mycursor = mydb.cursor()
 
-    sql = "INSERT INTO sub_category (name, category_id) VALUES (%s, %s )"
+    sql = "INSERT INTO sub_categories (name, category_id) VALUES (%s, %s )"
     val = (name, category_id)
 
     mycursor.execute(sql, val)
