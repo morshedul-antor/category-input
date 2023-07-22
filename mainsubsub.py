@@ -5,10 +5,10 @@ i = 1
 
 def insert(name, category_id, sub_category_id):
     mydb = mysql.connector.connect(
-        host="bizdata.cxr9ckftrymk.ap-southeast-1.rds.amazonaws.com",
-        user="biztradeprodu",
-        password="h48eUe3jpYjkd982ueje",
-        database="biztradeprod"
+        host="localhost",
+        user="root",
+        password="",
+        database="biztrade"
     )
 
     mycursor = mydb.cursor()
